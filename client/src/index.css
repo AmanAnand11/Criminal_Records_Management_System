@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.crime-details {
+  background-color: #f2f2f2;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.title {
+  margin-top: 0;
+}
+
+.details p {
+  margin: 0;
+  padding: 5px 0;
+}
+
+.details p:not(:last-child) {
+  border-bottom: 1px solid #ddd;
+}
+
+.description {
+  text-align: center;
+  font-weight: bold;
+}
+
+.photo img {
+  margin: auto;
+}

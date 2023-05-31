@@ -1,0 +1,36 @@
+/* .homeList
+{
+    margin-top: 30px;
+}
+
+.headers
+{
+    height: 50px;
+    padding: 2px;
+} */
+
+.right {
+    display: flex;
+}
+
+.right li {
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.navbar {
+    background-color: #f2f2f2;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    padding: 10px;
+    border-radius: 10px;
+}
+
+li:hover {
+    background-color: darkgrey;
+}
