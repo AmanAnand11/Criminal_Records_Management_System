@@ -2,7 +2,7 @@
 Introduction:
 
 • Criminal records are highly sensitive public records. Tampering of criminal records is a criminal offence where a person alters, conceals, falsifies, or destroys evidence with the intent to interfere with an 
-  investigation by a law-enforcement, governmental, or regulatory authority.
+   investigation by a law-enforcement, governmental, or regulatory authority.
   
 • There are registered cases where the suspect/convict escapes tampering evidences, hence there is need of a reliable, fool proof system to maintain and manage crime records.
 
